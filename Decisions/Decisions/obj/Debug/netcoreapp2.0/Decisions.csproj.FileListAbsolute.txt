@@ -1,0 +1,11 @@
+c:\users\nsuna\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.deps.json
+c:\users\nsuna\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.runtimeconfig.json
+c:\users\nsuna\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.runtimeconfig.dev.json
+c:\users\nsuna\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.dll
+c:\users\nsuna\source\repos\Decisions\Decisions\bin\Debug\netcoreapp2.0\Decisions.pdb
+c:\users\nsuna\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.csprojResolveAssemblyReference.cache
+c:\users\nsuna\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.csproj.CoreCompileInputs.cache
+c:\users\nsuna\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.AssemblyInfoInputs.cache
+c:\users\nsuna\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.AssemblyInfo.cs
+c:\users\nsuna\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.dll
+c:\users\nsuna\source\repos\Decisions\Decisions\obj\Debug\netcoreapp2.0\Decisions.pdb
